@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-🔬 Eskişehir Anadolu Üniversitesi Yönetim bilişim Sistemeleri Lisans Bölümünde Okuyorum.
+🔬 Eskişehir Anadolu Üniversitesi Yönetim Bilişim Sistemeleri Lisans Bölümünde Okuyorum.
 
 🎓 Isparta Senirkent M.Y.O Bilgisayar Progmcılığı  Mezunuyum.
 
