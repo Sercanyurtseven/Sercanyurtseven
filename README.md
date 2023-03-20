@@ -6,7 +6,9 @@
 </div>
 
 🔬 Eskişehir Anadolu Üniversitesi Yönetim bilişim Sistemeleri Lisans Bölümünde Okuyorum.
+
 🎓 Isparta Senirkent M.Y.O Bilgisayar Progmcılığı  Mezunuyum.
+
 💻 c# eğitimlerim ile basit projeler yaparak öğreniyorum.
 
 SKİLLS AAND EXPERİENCE:
