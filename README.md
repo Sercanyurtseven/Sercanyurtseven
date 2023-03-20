@@ -1,4 +1,4 @@
-### Hi 👋 I'm Sercan
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&repeat=do%C4%9Fru&width=435&lines=Hello%2C+there!;He+is+Sercan+Yurtseven...;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 
 <div align="center">
